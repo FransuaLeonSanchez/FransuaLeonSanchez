@@ -1,0 +1,117 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Fransua León Sánchez",
+    "username": "FransuaLeonSanchez",
+    "headline": "Ssr. Cloud Engineer · AI Systems Builder",
+    "affiliation": "Alicorp · UNI · Hanyang Cyber",
+    "location": "Lima, Peru",
+    "status": "Architecting · Automating · Shipping",
+    "about": [
+      "I build reliable Cloud AI platforms at the intersection of infrastructure, agentic systems, and production machine learning.",
+      "At Alicorp I work on cloud governance, SRE, FinOps, infrastructure as code, and delivery automation; previously I shipped multimodal and multi-cloud AI systems."
+    ]
+  },
+  "research": {
+    "primary": "Cloud AI & Agents",
+    "direction": "Reliable AI platforms at scale",
+    "themes": "GCP · MLOps · RAG · SRE · Multi-Cloud",
+    "narrative": "I focus on the engineering layer that turns AI prototypes into observable, secure, cost-aware production systems: agent orchestration, retrieval, cloud platforms, infrastructure as code, and automated delivery."
+  },
+  "focus": [
+    {
+      "name": "Cloud AI Architecture",
+      "description": "Production AI platforms across GCP, AWS, and Azure with security, scalability, and cost control."
+    },
+    {
+      "name": "Agentic Systems",
+      "description": "Tool-using, retrieval-augmented, and multimodal agents built for measurable real-world workflows."
+    },
+    {
+      "name": "MLOps & SRE",
+      "description": "Infrastructure as code, CI/CD, observability, reliability engineering, and operational governance."
+    },
+    {
+      "name": "Multimodal AI",
+      "description": "Real-time voice, vision, and language experiences using modern model and media infrastructure."
+    }
+  ],
+  "projects": [
+    {
+      "name": "GenIA Voice RAG",
+      "url": "https://github.com/FransuaLeonSanchez/AI-ENGINEER-CASO-Fransua-Mijail-Leon-Sanchez",
+      "homepage": "https://genia.fransualeon.online",
+      "focus": "Real-time voice RAG on Azure",
+      "summary": "A production-oriented voice assistant that searches nearly 3,000 asset-management documents through LiveKit, OpenAI, and Azure AI Search.",
+      "heroLabel": "Realtime RAG agent"
+    },
+    {
+      "name": "Local LLM Lab",
+      "url": "https://github.com/FransuaLeonSanchez/Intel-B60-LLM-Chatbot",
+      "homepage": "",
+      "focus": "Private local model inference",
+      "summary": "A containerized local LLM stack using Ollama, Vulkan, FastAPI, and a modern web interface for private GPU inference.",
+      "heroLabel": "Private GPU inference"
+    },
+    {
+      "name": "HealthIA",
+      "url": "https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon",
+      "homepage": "",
+      "focus": "Multi-agent health assistant",
+      "summary": "A bilingual multi-agent wellness platform built with LangGraph, FastAPI, Azure, OpenAI, and wearable-data integrations.",
+      "heroLabel": "Multi-agent wellness"
+    },
+    {
+      "name": "RIMAC Alerts",
+      "url": "https://github.com/FransuaLeonSanchez/HackaRIMAC",
+      "homepage": "",
+      "focus": "Serverless insurance intelligence",
+      "summary": "An award-winning proactive alert system using AWS Lambda, DynamoDB, and Amazon Bedrock to improve insurance engagement.",
+      "heroLabel": "Serverless insurance AI"
+    }
+  ],
+  "techStack": [
+    "Python",
+    "Go",
+    "TypeScript",
+    "FastAPI",
+    "LangChain",
+    "LangGraph",
+    "Google Cloud",
+    "AWS",
+    "Azure",
+    "Terraform",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "PostgreSQL",
+    "Redis",
+    "Neo4j",
+    "Prometheus",
+    "Grafana"
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "value": "/in/fransua-leon",
+      "url": "https://www.linkedin.com/in/fransua-leon/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "GitHub",
+      "value": "FransuaLeonSanchez",
+      "url": "https://github.com/FransuaLeonSanchez",
+      "logo": "github",
+      "color": "111827"
+    }
+  ],
+  "activity": {
+    "enabled": false,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building reliable Cloud AI systems for production at scale."
+}
