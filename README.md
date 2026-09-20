@@ -66,9 +66,7 @@ My goal is simple: make advanced AI easier to operate, easier to trust, and easi
 | System | What it proves | Stack | Links |
 | --- | --- | --- | --- |
 | **[GEMA · Metabolic Digital Twin](https://github.com/FransuaLeonSanchez/gema-metabolic-twin)** | Metabolic digital twin for early-risk screening in Peru, combining an interpretable ICM, ML predictions, and actionable what-if guidance. “Your health is a gem.” | Next.js, React, TypeScript, Gemini, Random Forest, Gradient Boosting, Tailwind, Vercel | [Live app](https://gema-metabolic-twin.vercel.app)<br>[Repo](https://github.com/FransuaLeonSanchez/gema-metabolic-twin) |
-| **[GenIA Voice RAG](https://github.com/FransuaLeonSanchez/AI-ENGINEER-CASO-Fransua-Mijail-Leon-Sanchez)** | Real-time voice assistant grounded in nearly 3,000 asset-management documents. | LiveKit, OpenAI, Azure AI Search, FastAPI, Next.js | [Live demo](https://genia.fransualeon.online)<br>[Repo](https://github.com/FransuaLeonSanchez/AI-ENGINEER-CASO-Fransua-Mijail-Leon-Sanchez) |
 | **[HealthIA](https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon)** | Bilingual AI wellness assistant with meal-image analysis and wearable-oriented product flows. | React, FastAPI, OpenAI, Python, AWS S3 | [Live app](https://healthia-ai.vercel.app)<br>[Repo](https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon) |
-| **[RIMAC Alerts](https://github.com/FransuaLeonSanchez/HackaRIMAC)** | Award-winning serverless intelligence for proactive insurance engagement. | AWS Lambda, DynamoDB, Bedrock, Claude | [Repo](https://github.com/FransuaLeonSanchez/HackaRIMAC) |
 
 ## Recent wins & recognition
 
