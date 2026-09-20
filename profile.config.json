@@ -58,7 +58,7 @@
       "url": "https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon",
       "homepage": "https://healthia-ai.vercel.app",
       "focus": "Multi-agent health assistant",
-      "summary": "A bilingual multi-agent wellness platform built with LangGraph, FastAPI, Azure, OpenAI, and wearable-data integrations.",
+      "summary": "A bilingual AI wellness assistant with React, FastAPI, OpenAI, meal-image analysis, and wearable-oriented product flows.",
       "heroLabel": "Multi-agent wellness"
     },
     {
