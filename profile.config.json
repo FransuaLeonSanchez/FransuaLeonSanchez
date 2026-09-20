@@ -92,6 +92,13 @@
   ],
   "links": [
     {
+      "label": "Email",
+      "value": "fransualeon2004@gmail.com",
+      "url": "https://mail.google.com/mail/?view=cm&to=fransualeon2004@gmail.com",
+      "logo": "gmail",
+      "color": "EA4335"
+    },
+    {
       "label": "LinkedIn",
       "value": "/in/fransua-leon",
       "url": "https://www.linkedin.com/in/fransua-leon/",

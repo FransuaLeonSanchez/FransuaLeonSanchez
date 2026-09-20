@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-112d89d2-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-112d89d2-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-112d89d2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-112d89d2-light.svg">
-    <img src="./assets/hero/agent-console-112d89d2-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-0de3e567-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-0de3e567-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-0de3e567-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-0de3e567-light.svg">
+    <img src="./assets/hero/agent-console-0de3e567-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
   </picture>
 </p>
 
@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fransua--leon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:fransualeon2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fransualeon2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://genia.fransualeon.online"><img alt="Live AI demo" src="https://img.shields.io/badge/Live_demo-GenIA-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img alt="English C1" src="https://img.shields.io/badge/English-C1_Advanced-7C3AED?style=for-the-badge">
 </p>
@@ -70,24 +71,52 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
 | **[HealthIA](https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon)** | Bilingual multi-agent health workflows connected to wearable and IoT data. | LangGraph, Azure, OpenAI, FastAPI |
 | **[RIMAC Alerts](https://github.com/FransuaLeonSanchez/HackaRIMAC)** | Award-winning serverless intelligence for proactive insurance engagement. | AWS Lambda, DynamoDB, Bedrock, Claude |
 
-## Experience signal
-
-| Period | Role | Scope |
-| --- | --- | --- |
-| **2026—Now** | **Ssr. Cloud Engineer · Alicorp** | Cloud governance, SRE, FinOps, Terraform, and GitHub Actions on GCP. |
-| **2025—2026** | **Cloud AI Engineer · Attach** | Multi-cloud AI infrastructure, secure Cloud Run delivery, multimodal agents, and IaC. |
-| **2024—2025** | **Software AI Engineer · YaVendió** | LangChain/LangGraph agents, RAG, Redis, cloud integrations, and performance engineering. |
-| **2023—2024** | **Software Developer · Kybalion** | Speech AI, local LLMs, computer vision, knowledge graphs, and Dockerized services. |
-| **2023** | **Data Engineering Intern · Nerdic Tech** | Go, AWS, ETL/ELT, and Redshift pipelines. |
-
-## Education, languages & recognition
+## Education & languages
 
 - **Systems Engineering** — Universidad Nacional de Ingeniería (UNI), Peru.
 - **Artificial Intelligence major** — Hanyang Cyber University, South Korea.
 - **Languages:** Spanish — native · English — C1 advanced.
-- **Recognition:** 2nd place, Huawei Developer Competition LATAM 2025 · Winner, RIMAC Hackathon 2024 · 1st place, NTT DATA Blockchain & AI Innovator 2025 · 1st place, Tecsup Security Challenge.
 
-## Contribution arcade
+## Recent wins & recognition
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/awards/hackaizi-2025.jpg" width="100%" alt="Second place at HackaIzi by Izipay 2025"><br>
+      <strong>2nd Place · HackaIzi by Izipay 2025</strong><br>
+      IziMetrics — AI-assisted analytics for small businesses
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/awards/ntt-data-2025.jpg" width="100%" alt="First place at NTT DATA Blockchain and AI Innovator Hackathon 2025"><br>
+      <strong>1st Place · NTT DATA 2025</strong><br>
+      IziContract — blockchain and AI for digital contracts
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/awards/huawei-2024.jpg" width="100%" alt="Third place podium at Huawei Developer Competition LATAM 2024"><br>
+      <strong>3rd Place · Huawei LATAM 2024</strong><br>
+      AIvendo — an AI-powered multichannel CRM
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/awards/rimac-2024.jpg" width="100%" alt="Winner of the RIMAC Hackathon 2024"><br>
+      <strong>Winner · RIMAC Hackathon 2024</strong><br>
+      New Tech challenge — real-time accident intelligence
+    </td>
+  </tr>
+</table>
+
+- **2nd Place** — Huawei Developer Competition LATAM 2025, with **IntiTerra**.
+- **2nd Place** — HackaIzi by Izipay 2025, with **IziMetrics**.
+- **1st Place** — NTT DATA Blockchain & AI Innovator Hackathon 2025, with **IziContract**.
+- **3rd Place** — Huawei Developer Competition LATAM 2024, with **AIvendo**.
+- **International finalist** — LLM Hackathon 2024, **Top 10 among 150 teams**, with **VirtualSellers**.
+- **1st Place** — Tecsup Citizen Security Technology Hackathon 2024, with **Perú Seguro**.
+- **3rd Place** — Sustainable AI Hackathon 2024, with **Aprendo**.
+- **2nd Place** — FIIS Project Fair and Competition 2024-I.
+- **Winner** — RIMAC Hackathon 2024, New Tech challenge.
+
+<p align="right"><a href="https://www.linkedin.com/in/fransua-leon/details/honors/">See the complete honors record on LinkedIn →</a></p>
 
 <p align="center">
   <picture>
@@ -98,7 +127,7 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
 
 <p align="center">
   <strong>Open to building reliable Cloud AI systems with teams that care about production quality.</strong><br>
-  <a href="https://www.linkedin.com/in/fransua-leon/">Let's connect on LinkedIn</a>
+  <a href="mailto:fransualeon2004@gmail.com">fransualeon2004@gmail.com</a> · <a href="https://www.linkedin.com/in/fransua-leon/">Let's connect on LinkedIn</a>
 </p>
 
 ---
