@@ -24,6 +24,8 @@
 
 I design and ship **cloud-native AI systems** that turn models into reliable products: observable, secure, cost-aware, and useful in real workflows.
 
+Alongside this work, I serve as CTO at [Clipealo AI](https://clipealo-ai.com/), helping turn long-form creator content into AI-assisted, publish-ready clips.
+
 - 🧠 **Agentic & multimodal AI** — RAG, tool calling, multi-agent orchestration, and real-time voice and vision experiences with LangGraph, LiveKit, and modern model APIs.
 - ☁️ **Cloud AI platforms** — production workloads across GCP, AWS, and Azure, from Cloud Run and serverless services to Kubernetes, private GPU inference, and edge-aware deployments.
 - 🛡️ **Production engineering** — Terraform, GitHub Actions, GitOps, SRE, observability, security, load testing, and FinOps so AI systems can ship and stay healthy.
