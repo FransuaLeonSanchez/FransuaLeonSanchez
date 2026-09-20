@@ -17,8 +17,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fransua--leon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:fransualeon2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fransualeon2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://genia.fransualeon.online"><img alt="Live AI demo" src="https://img.shields.io/badge/Live_demo-GenIA-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <img alt="English C1" src="https://img.shields.io/badge/English-C1_Advanced-7C3AED?style=for-the-badge">
 </p>
 
 ## What I build
@@ -70,12 +68,6 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
 | **[Local LLM Lab](https://github.com/FransuaLeonSanchez/Intel-B60-LLM-Chatbot)** | Private, containerized local-model inference with GPU acceleration and a usable web interface. | Ollama, Vulkan, Qwen, FastAPI, Docker |
 | **[HealthIA](https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon)** | Bilingual multi-agent health workflows connected to wearable and IoT data. | LangGraph, Azure, OpenAI, FastAPI |
 | **[RIMAC Alerts](https://github.com/FransuaLeonSanchez/HackaRIMAC)** | Award-winning serverless intelligence for proactive insurance engagement. | AWS Lambda, DynamoDB, Bedrock, Claude |
-
-## Education & languages
-
-- **Systems Engineering** — Universidad Nacional de Ingeniería (UNI), Peru.
-- **Artificial Intelligence major** — Hanyang Cyber University, South Korea.
-- **Languages:** Spanish — native · English — C1 advanced.
 
 ## Recent wins & recognition
 
@@ -132,5 +124,3 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
 </p>
 
 ---
-
-<sub>Terminal hero adapted from the MIT-licensed <a href="https://github.com/wildanniam/GitHub-Profile-Console">GitHub Profile Console</a>. Contribution arcade powered by <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a>.</sub>
