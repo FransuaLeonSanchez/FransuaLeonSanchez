@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30"></a>
-  <a href="https://www.instagram.com/fransualeon/"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30"></a>
-  <a href="https://github.com/FransuaLeonSanchez"><img alt="GitHub" src="https://cdn.simpleicons.org/github/6B7280" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/fransualeon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/FransuaLeonSanchez"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## What I build
