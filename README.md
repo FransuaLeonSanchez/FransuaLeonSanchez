@@ -83,38 +83,39 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
   <tr>
     <td width="50%" align="center">
       <img src="./assets/awards/huawei-2025-latest.png" width="100%" alt="Second place at Huawei Developer Competition LATAM 2025"><br>
-      <strong>Latest · 2nd Place · Huawei LATAM 2025</strong><br>
+      <strong>🥈 2nd Place · Huawei LATAM 2025</strong><br>
       IntiTerra · Huawei Developer Competition LATAM
     </td>
     <td width="50%" align="center">
       <img src="./assets/awards/sustainable-ai-hackathon-2024.png" width="100%" alt="Third place at IA Hackathon Buscando soluciones sostenibles"><br>
-      <strong>3rd Place · IA Hackathon 2024</strong><br>
+      <strong>🥉 3rd Place · IA Hackathon 2024</strong><br>
       “Buscando soluciones sostenibles” · Universidad Científica
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./assets/awards/ntt-data-2025.jpg" width="100%" alt="First place at NTT DATA Blockchain and AI Innovator Hackathon 2025"><br>
-      <strong>1st Place · NTT DATA 2025</strong><br>
+      <strong>🥇 1st Place · NTT DATA 2025</strong><br>
       IziContract — blockchain and AI for digital contracts
     </td>
     <td width="50%" align="center">
       <img src="./assets/awards/rimac-2024.jpg" width="100%" alt="Winner of the RIMAC Hackathon 2024"><br>
-      <strong>Winner · RIMAC Hackathon 2024</strong><br>
+      <strong>🏆 Winner · RIMAC Hackathon 2024</strong><br>
       New Tech challenge — real-time accident intelligence
     </td>
   </tr>
 </table>
 
-- **2nd Place** — Huawei Developer Competition LATAM 2025, with **IntiTerra**.
-- **2nd Place** — HackaIzi by Izipay 2025, with **IziMetrics**.
-- **1st Place** — NTT DATA Blockchain & AI Innovator Hackathon 2025, with **IziContract**.
-- **3rd Place** — Huawei Developer Competition LATAM 2024, with **AIvendo**.
-- **International finalist** — LLM Hackathon 2024, **Top 10 among 150 teams**, with **VirtualSellers**.
-- **1st Place** — Tecsup Citizen Security Technology Hackathon 2024, with **Perú Seguro**.
-- **3rd Place** — Sustainable AI Hackathon 2024, with **Aprendo**.
-- **2nd Place** — FIIS Project Fair and Competition 2024-I.
-- **Winner** — RIMAC Hackathon 2024, New Tech challenge.
+- 🥈 **2nd Place** — FIIS Project Fair and Competition 2026, Universidad Nacional de Ingeniería.
+- 🥈 **2nd Place** — Huawei Developer Competition LATAM 2025, with **IntiTerra**.
+- 🥈 **2nd Place** — HackaIzi by Izipay 2025, with **IziMetrics**.
+- 🥇 **1st Place** — NTT DATA Blockchain & AI Innovator Hackathon 2025, with **IziContract**.
+- 🥉 **3rd Place** — Huawei Developer Competition LATAM 2024, with **AIvendo**.
+- 🏅 **International finalist** — LLM Hackathon 2024, **Top 10 among 150 teams**, with **VirtualSellers**.
+- 🥇 **1st Place** — Tecsup Citizen Security Technology Hackathon 2024, with **Perú Seguro**.
+- 🥉 **3rd Place** — Sustainable AI Hackathon 2024, with **Aprendo**.
+- 🥈 **2nd Place** — FIIS Project Fair and Competition 2024-I.
+- 🏆 **Winner** — RIMAC Hackathon 2024, New Tech challenge.
 
 <p align="right"><a href="https://www.linkedin.com/in/fransua-leon/details/honors/">See the complete honors record on LinkedIn →</a></p>
 
