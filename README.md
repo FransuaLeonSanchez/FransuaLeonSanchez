@@ -1,23 +1,22 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-9f16bd4f-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-9f16bd4f-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-9f16bd4f-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-9f16bd4f-light.svg">
-    <img src="./assets/hero/agent-console-9f16bd4f-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-18cf1dfd-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-18cf1dfd-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-18cf1dfd-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-18cf1dfd-light.svg">
+    <img src="./assets/hero/agent-console-18cf1dfd-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
   </picture>
 </p>
 
 <h1 align="center">Cloud infrastructure that makes AI dependable.</h1>
 
 <p align="center">
-  <strong>Ssr. Cloud Engineer @ Alicorp</strong> · AI systems builder · Lima, Peru
+  <strong>Cloud AI engineer</strong> · AI systems builder · Lima, Peru
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fransua--leon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fransua-leon/"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30"></a>
   <a href="https://www.instagram.com/fransualeon/"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30"></a>
-  <a href="mailto:fransualeon2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fransualeon2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/FransuaLeonSanchez"><img alt="GitHub" src="https://cdn.simpleicons.org/github/6B7280" width="30" height="30"></a>
 </p>
 
@@ -68,7 +67,6 @@ My goal is simple: make advanced AI easier to operate, easier to trust, and easi
 | --- | --- | --- |
 | **[GEMA · Metabolic Digital Twin](https://github.com/FransuaLeonSanchez/gema-metabolic-twin)** · [live app](https://gemelo-digital.vercel.app/) | Metabolic digital twin for early-risk screening in Peru, combining an interpretable ICM, ML predictions, and actionable what-if guidance. “Your health is a gem.” | Next.js, React, TypeScript, Gemini, Random Forest, Gradient Boosting, Tailwind, Vercel |
 | **[GenIA Voice RAG](https://github.com/FransuaLeonSanchez/AI-ENGINEER-CASO-Fransua-Mijail-Leon-Sanchez)** · [live demo](https://genia.fransualeon.online) | Real-time voice assistant grounded in nearly 3,000 asset-management documents. | LiveKit, OpenAI, Azure AI Search, FastAPI, Next.js |
-| **[Local LLM Lab](https://github.com/FransuaLeonSanchez/Intel-B60-LLM-Chatbot)** | Private, containerized local-model inference with GPU acceleration and a usable web interface. | Ollama, Vulkan, Qwen, FastAPI, Docker |
 | **[HealthIA](https://github.com/FransuaLeonSanchez/HealthIA-AIHackathon)** | Bilingual multi-agent health workflows connected to wearable and IoT data. | LangGraph, Azure, OpenAI, FastAPI |
 | **[RIMAC Alerts](https://github.com/FransuaLeonSanchez/HackaRIMAC)** | Award-winning serverless intelligence for proactive insurance engagement. | AWS Lambda, DynamoDB, Bedrock, Claude |
 

@@ -4,12 +4,12 @@
     "name": "Fransua León Sánchez",
     "username": "FransuaLeonSanchez",
     "headline": "Ssr. Cloud Engineer · AI Systems Builder",
-    "affiliation": "Alicorp · UNI · Hanyang Cyber",
+    "affiliation": "UNI · Hanyang Cyber",
     "location": "Lima, Peru",
     "status": "Architecting · Automating · Shipping",
     "about": [
       "I build reliable Cloud AI platforms at the intersection of infrastructure, agentic systems, and production machine learning.",
-      "At Alicorp I work on cloud governance, SRE, FinOps, infrastructure as code, and delivery automation; previously I shipped multimodal and multi-cloud AI systems."
+      "I turn multimodal and multi-cloud AI systems into production platforms with clear reliability, security, and cost boundaries."
     ]
   },
   "research": {
@@ -38,20 +38,20 @@
   ],
   "projects": [
     {
+      "name": "GEMA Digital Twin",
+      "url": "https://github.com/FransuaLeonSanchez/gema-metabolic-twin",
+      "homepage": "https://gemelo-digital.vercel.app",
+      "focus": "Metabolic risk screening",
+      "summary": "A digital metabolic twin for early-risk screening in Peru, combining an interpretable metabolic-load index, ML predictions, and what-if guidance.",
+      "heroLabel": "Metabolic AI twin"
+    },
+    {
       "name": "GenIA Voice RAG",
       "url": "https://github.com/FransuaLeonSanchez/AI-ENGINEER-CASO-Fransua-Mijail-Leon-Sanchez",
       "homepage": "https://genia.fransualeon.online",
       "focus": "Real-time voice RAG on Azure",
       "summary": "A production-oriented voice assistant that searches nearly 3,000 asset-management documents through LiveKit, OpenAI, and Azure AI Search.",
       "heroLabel": "Realtime RAG agent"
-    },
-    {
-      "name": "Local LLM Lab",
-      "url": "https://github.com/FransuaLeonSanchez/Intel-B60-LLM-Chatbot",
-      "homepage": "",
-      "focus": "Private local model inference",
-      "summary": "A containerized local LLM stack using Ollama, Vulkan, FastAPI, and a modern web interface for private GPU inference.",
-      "heroLabel": "Private GPU inference"
     },
     {
       "name": "HealthIA",

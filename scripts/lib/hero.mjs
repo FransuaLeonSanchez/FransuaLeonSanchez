@@ -215,7 +215,7 @@ function createHeroSvg(config, colors, size, portrait) {
   const isDesktop = size === "desktop";
   const titleCenter = titlebar.x + titlebar.width / 2;
   const liveX = titlebar.x + titlebar.width - 138;
-  const cursorY = layout.system.y + (profileLines.length - 1) * layout.system.lineHeight - 15;
+  const cursorY = layout.system.y + profileLines.length * layout.system.lineHeight - 15;
   const terminalUser = config.profile.username.slice(0, isDesktop ? 22 : 14);
   const footerLabel = config.focus.slice(0, 3).map((item) => item.name.toUpperCase()).join(" / ").slice(0, 64);
 
