@@ -87,9 +87,9 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
       IntiTerra · Huawei Developer Competition LATAM
     </td>
     <td width="50%" align="center">
-      <img src="./assets/awards/hackaizi-2025.jpg" width="100%" alt="Second place at HackaIzi by Izipay 2025"><br>
-      <strong>2nd Place · HackaIzi by Izipay 2025</strong><br>
-      IziMetrics — AI-assisted analytics for small businesses
+      <img src="./assets/awards/sustainable-ai-hackathon-2024.png" width="100%" alt="Third place at IA Hackathon Buscando soluciones sostenibles"><br>
+      <strong>3rd Place · IA Hackathon 2024</strong><br>
+      “Buscando soluciones sostenibles” · Universidad Científica
     </td>
   </tr>
   <tr>
