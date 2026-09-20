@@ -82,21 +82,21 @@ I turn AI prototypes into **secure, observable, cost-aware production systems**.
 <table>
   <tr>
     <td width="50%" align="center">
+      <img src="./assets/awards/huawei-2025-latest.png" width="100%" alt="Second place at Huawei Developer Competition LATAM 2025"><br>
+      <strong>Latest · 2nd Place · Huawei LATAM 2025</strong><br>
+      IntiTerra · Huawei Developer Competition LATAM
+    </td>
+    <td width="50%" align="center">
       <img src="./assets/awards/hackaizi-2025.jpg" width="100%" alt="Second place at HackaIzi by Izipay 2025"><br>
       <strong>2nd Place · HackaIzi by Izipay 2025</strong><br>
       IziMetrics — AI-assisted analytics for small businesses
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="./assets/awards/ntt-data-2025.jpg" width="100%" alt="First place at NTT DATA Blockchain and AI Innovator Hackathon 2025"><br>
       <strong>1st Place · NTT DATA 2025</strong><br>
       IziContract — blockchain and AI for digital contracts
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/awards/huawei-2024.jpg" width="100%" alt="Third place podium at Huawei Developer Competition LATAM 2024"><br>
-      <strong>3rd Place · Huawei LATAM 2024</strong><br>
-      AIvendo — an AI-powered multichannel CRM
     </td>
     <td width="50%" align="center">
       <img src="./assets/awards/rimac-2024.jpg" width="100%" alt="Winner of the RIMAC Hackathon 2024"><br>
