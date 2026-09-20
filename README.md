@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-0de3e567-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-0de3e567-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-0de3e567-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-0de3e567-light.svg">
-    <img src="./assets/hero/agent-console-0de3e567-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-9f16bd4f-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-9f16bd4f-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-9f16bd4f-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-9f16bd4f-light.svg">
+    <img src="./assets/hero/agent-console-9f16bd4f-dark.svg" alt="Fransua León Sánchez — Cloud AI Engineer terminal profile" width="100%">
   </picture>
 </p>
 
@@ -21,44 +21,44 @@
 
 ## What I build
 
-I turn AI prototypes into **secure, observable, cost-aware production systems**. My work connects cloud architecture, platform engineering, MLOps, SRE, and agentic AI.
+I design and ship **cloud-native AI systems** that turn models into reliable products: observable, secure, cost-aware, and useful in real workflows.
 
-- **At Alicorp:** GCP governance, reliability, FinOps, Terraform, and CI/CD automation.
-- **Agentic AI:** RAG, tool use, multi-agent orchestration, and real-time voice experiences.
-- **Cloud platforms:** production workloads across Google Cloud, AWS, and Azure.
-- **Operational mindset:** infrastructure as code, observability, security, and measurable delivery.
+- 🧠 **Agentic & multimodal AI** — RAG, tool calling, multi-agent orchestration, and real-time voice and vision experiences with LangGraph, LiveKit, and modern model APIs.
+- ☁️ **Cloud AI platforms** — production workloads across GCP, AWS, and Azure, from Cloud Run and serverless services to Kubernetes, private GPU inference, and edge-aware deployments.
+- 🛡️ **Production engineering** — Terraform, GitHub Actions, GitOps, SRE, observability, security, load testing, and FinOps so AI systems can ship and stay healthy.
+- 🔎 **Data & retrieval** — vector search, PostgreSQL, Redis, Neo4j, ETL/ELT, embeddings, and evaluation loops that give agents useful context.
+- 🚀 **Builder mindset** — I like turning hard domains into clear products: voice assistants, local LLMs, sustainable-agriculture tools, insurance intelligence, and developer platforms.
+
+My goal is simple: make advanced AI easier to operate, easier to trust, and easier for people to use.
+
+## Cloud AI stack
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="./assets/icons/google-cloud.png" width="58" alt="Google Cloud"><br>
-      <strong>Cloud Platforms</strong><br>
-      GCP · AWS · Azure
+    <td width="50%" valign="top">
+      <strong>🧠 AI systems</strong><br>
+      Python · FastAPI · LangChain · LangGraph · RAG · OpenAI · Gemini · Claude · LiveKit · Whisper · YOLO · Ollama
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/icons/ai-signal.png" width="58" alt="Artificial intelligence"><br>
-      <strong>AI Systems</strong><br>
-      Agents · RAG · Multimodal
+    <td width="50%" valign="top">
+      <strong>☁️ Cloud & platform</strong><br>
+      GCP · AWS · Azure · Huawei Cloud · Cloud Run · Kubernetes · Terraform · Docker · GitHub Actions · Linux
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/icons/linux-signal.png" width="58" alt="Linux"><br>
-      <strong>Platform Engineering</strong><br>
-      IaC · SRE · MLOps
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔎 Data & retrieval</strong><br>
+      PostgreSQL · Redis · Neo4j · Redshift · Azure AI Search · Pinecone · Milvus · embeddings · evaluation
+    </td>
+    <td width="50%" valign="top">
+      <strong>🛡️ Reliability & delivery</strong><br>
+      SRE · MLOps · IaC · GitOps · observability · Prometheus · Grafana · SonarQube · load testing · FinOps
     </td>
   </tr>
 </table>
 
-## Cloud AI stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,gcp,aws,azure,docker,kubernetes,terraform,githubactions,linux,postgres,redis,mongodb,prometheus,grafana,git&perline=9" alt="Core technology stack">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,gcp,aws,azure,docker,kubernetes,terraform,githubactions,linux,postgres,redis,mongodb,prometheus,grafana,git&perline=12" alt="Core technology stack">
 </p>
-
-**AI & agents** · LangChain · LangGraph · RAG · LiveKit · OpenAI · Gemini · Claude · Ollama · Whisper · YOLO
-
-**Data & search** · PostgreSQL · Redis · Neo4j · SQL Server · Redshift · Azure AI Search · Pinecone · Milvus
-
-**Platform & operations** · Terraform · Docker · Kubernetes · GitHub Actions · GitOps · Prometheus · Grafana · SonarQube
 
 ## Selected systems
 
